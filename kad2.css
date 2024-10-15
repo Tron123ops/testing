@@ -65,10 +65,10 @@ header p {
 }
 
 .skill {
-    background-color: #333;
+    background-color: pink;
     color: white;
     padding: 20px;
-    border-radius: 8px;
+    border-radius: 10px;
     width: 150px;
     text-align: center;
 }
@@ -76,7 +76,7 @@ header p {
 /* Projects Section */
 #projects {
     padding: 50px 0;
-    background: #f4f4f4;
+    background: red;
     text-align: center;
 }
 
